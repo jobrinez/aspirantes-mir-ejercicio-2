@@ -13,7 +13,7 @@ Juan Rada
 Alfonso Arevalo
 Jorge Soler
 Juan Galeano
-Juan Rada
+Juan Radae
 Juan Velz
 Jostin Betancour
 Carlos Ortegon
@@ -26,3 +26,4 @@ Angee Valentina Hurtado
 Erick Carrasco
 Mary Ramirez
 Sebastian Rengifo
+Adner Rodriguez
